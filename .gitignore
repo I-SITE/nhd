@@ -1,0 +1,17 @@
+.well-known/
+/wp-config.php
+/wp-config-local.php
+/wp-content/uploads/
+/wp-content/cache
+/vendor/
+
+
+.env
+
+
+#phpstorm
+.idea
+
+#dumps
+*.sql
+*.gz
